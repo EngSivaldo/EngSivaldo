@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou Sivaldo Vieira de Almeida 👋
 
-<!--
-**EngSivaldo/EngSivaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharel em Engenharia de Software - UNINTER
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* Python
+* Django
+* Flask
+* FastAPI
+* JavaScript
+* React
+* Node.js
+* PostgreSQL
+* MySQL
+* Docker
+* Git e GitHub
+
+## Projetos em Destaque
+
+🚀 Plataforma Gamificada com IA (TCC)
+
+🚀 Sistema PDV em Flask
+
+🚀 Clone Airbnb
+
+🚀 E-commerce Full Stack
+
+🚀 Aplicações React
+
+🚀 APIs REST com Node.js e Express
+
+## Certificações
+
+* Full Stack Impressionador (260h)
+* Python Impressionador (118h)
+* JavaScript Impressionador (170h)
+* HTML & CSS Impressionador (87h)
+* Desenvolvimento Web com Python - Flask e Django (57h)
+
+## Contato
+
+📧 Email: [sivaldovieiradealmeida@gmail.com](mailto:sivaldovieiradealmeida@gmail.com)
+
+💼 LinkedIn:
+linkedin.com/in/sivaldo-vieira-de-almeida-320429404
+
+🐙 GitHub:
+github.com/EngSivaldo
